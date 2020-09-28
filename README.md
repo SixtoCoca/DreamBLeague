@@ -9,7 +9,7 @@ API para poder manejar todos los datos de una liga de Baloncesto (puntos,asisten
 
 ## Enlaces
 
--[Configuración de git](docs/gitconfig.md)
+- [Configuración de git](docs/gitconfig.md)
 
 ## Autor
--[Sixto Coca Cruz](https://github.com/SixtoCoca)
+- [Sixto Coca Cruz](https://github.com/SixtoCoca)
