@@ -4,7 +4,7 @@
 
 ## Herramientas
 	
-	Voy a utilizar nodejs
+Voy a utilizar nodejs
 
 ## Autor
-	[Sixto Coca Cruz](https://github.com/SixtoCoca)
+-[Sixto Coca Cruz](https://github.com/SixtoCoca)
