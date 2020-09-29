@@ -1,6 +1,6 @@
 ## Configuración de git
 
-![](./img/gitconfig.png)
+![](./img/gitremote.png)
 
 Como se puede ver aquí no pide contraseña al hacer un push
 
