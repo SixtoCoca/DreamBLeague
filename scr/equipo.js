@@ -1,5 +1,6 @@
 class Equipo{
     constructor(){
+        var posicion;
         var victorias;
         var derrotas;
         var puntos;
