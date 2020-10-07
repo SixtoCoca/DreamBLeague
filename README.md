@@ -19,7 +19,7 @@ Necesitas tener instalado nodojs en tu sistema.Clona este repositorio, ve a la c
 ## Herramientas
 	
 - Lenguaje: Node js
-- Framework: Express
+- Framework: ---
 - DB: MongoDB
 
 ## Enlaces
