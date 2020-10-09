@@ -1,4 +1,4 @@
-## Configuración de git
+# Configuración de git
 
 ![](./img/gitremote.png)
 

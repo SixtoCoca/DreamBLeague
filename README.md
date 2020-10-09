@@ -10,6 +10,10 @@ API para poder manejar todos los datos de una liga de Baloncesto (puntos,asisten
 
 En esta API podremos consultar los datos y también se tienen que poder introducir, para poder introducirlos añadiremos un partido entre 2 equipos con algunas estadísticas. Podremos consultar todas las estadísticas almacenadas de cualquier equipo.
 
+## Utilidad
+
+El baloncesto es un deporte en el que es muy popular el uso de estadísticas y esta api solo introduciendo unas pocas estadísticas, nos complementará estas y nos será más facil que si lo hiciesemos a mano.
+
 ## Herramientas
 	
 - Lenguaje: Node js
@@ -19,6 +23,12 @@ En esta API podremos consultar los datos y también se tienen que poder introduc
 
 - [Configuración de git](docs/gitconfig.md)
 - [Herramientas](docs/herramientas.md)
+- [Buenas Practicas](docs/buenaspracticas.md)
+- [Historias de usuario](docs/historiasusuario.md)
+
+## Archivos Fuente
+
+- [Fuentes](https://github.com/SixtoCoca/DreamBLeague/tree/master/src)
 
 ## Autor
 - [Sixto Coca Cruz](https://github.com/SixtoCoca)
