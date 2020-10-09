@@ -26,7 +26,11 @@ El baloncesto es un deporte en el que es muy popular el uso de estadísticas y e
 - [Buenas Practicas](docs/buenaspracticas.md)
 - [Historias de usuario](docs/historiasusuario.md)
 
-##Issues y Milestones
+## Issues y Milestones
+
+- [Issues](https://github.com/SixtoCoca/DreamBLeague/issues)
+- [Issues Completados](https://github.com/SixtoCoca/DreamBLeague/issues?q=is%3Aissue+is%3Aclosed)
+- [Milestones](https://github.com/SixtoCoca/DreamBLeague/milestones)
 
 ## Archivos Fuente
 
